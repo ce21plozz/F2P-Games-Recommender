@@ -1,5 +1,4 @@
 # F2P-Games-Recommender 🎮 
-
 ---
 
 ### (WORK IN PROGRESS)
