@@ -1,5 +1,5 @@
 # F2P-Games-Recommender 🎮
-## (WORK IN PROGRESS)
+### (WORK IN PROGRESS)
 ---
 #### This website will let you to find free games! This Website also lets you filter what type of games you wanted to find.
 
